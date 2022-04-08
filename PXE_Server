@@ -1,1 +1,1 @@
-sudo apt-get install dnsmasq pxelinux nfs-kernel-server
+nano /etc/dnsmasq.conf
